@@ -3,8 +3,8 @@ Image Prediction
 # Dependencies
 To use ImageAI in your application developments, you must have installed the following dependencies before you install ImageAI:
 
-Python 3.5.1 (and later versions)
-Tensorflow 1.4.0 (and later versions) (Tensorflow 2.0 coming soon)
+Python 3.8.x(and later versions)
+Tensorflow 2.2.x(and later versions) (Tensorflow 2.0 coming soon)
 OpenCV
 Keras 2.x
      
