@@ -1,6 +1,9 @@
 # ImageAI
 Image Prediction
 
+# Run
+    python imageAI.py
+
 # Example
 SportsCar ()
 ![Image](https://github.com/Attupatil/imageAI/blob/master/SportsCar.PNG "SportsCar")
@@ -10,6 +13,12 @@ SportsCar2 ()
 
 SportsCarCompare ()
 ![Image](https://github.com/Attupatil/imageAI/blob/master/SportsCarCompare.jpg "SportsCarCompare")
+
+# More examples
+![Image](https://github.com/Attupatil/imageAI/blob/master/BowTie.jpg "BowTie")
+![Image](https://github.com/Attupatil/imageAI/blob/master/assault_rifle.jpg "AssaultRifle")
+![Image](https://github.com/Attupatil/imageAI/blob/master/giant%20panda.jpg "Panda")
+![Image](https://github.com/Attupatil/imageAI/blob/master/paanda%20perc.jpg "Panda percentage")
 
 
 
@@ -26,3 +35,5 @@ Keras 2.x
 To install ImageAI, run the python installation instruction below in the command line:
 
     pip3 install imageai --upgrade
+
+
